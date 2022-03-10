@@ -144,8 +144,8 @@ l1_slider = Slider(
 ax_l2 = plt.axes([0.15, 0.55, 0.3, 0.03])
 l2_slider = Slider(
     ax=ax_l2,
-    label="Right Displacement l2",
-    valmin=0,
+    label="Left Displacement l2",
+    valmin=1,
     valmax=25,
     valinit=l2,
 )

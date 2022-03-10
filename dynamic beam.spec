@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['C:/Users/Abdalla/Desktop/dynamic/dynamic beam.py'],
+a = Analysis(['C:\\Users\\Abdalla\\Desktop\\3rd civil\\dynamic\\free-vibrations\\dynamic beam.py'],
              pathex=[],
              binaries=[],
              datas=[],
